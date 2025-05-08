@@ -8,7 +8,7 @@
             "environments": [
                 "edit"
             ],
-            "url": "https://experience.adobe.com/solutions/CQ-helix-assets-addon/static-assets/resources/asset-selector.html",
+            "url": "https://experience.adobe.com/solutions/CQ-helix-assets-addon/static-assets/resources/asset-selector.html?extConfigUrl=https://main--thirueds--thirumalaivm.aem.live/tools/assets-selector/config.json",
             "isPalette": true,
             "includePaths": [
                 "**.docx**"

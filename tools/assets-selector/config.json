@@ -1,0 +1,12 @@
+{ 
+	"blockName": [ 
+    	{ 
+        	"mimeType": "video/*", 
+        	"value": "Core Video" 
+    	},
+        { 
+            "mimeType": "image/*", 
+            "value": "Core Image" 
+        }
+	] 
+}  
